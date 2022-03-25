@@ -1,1 +1,1 @@
-# Jentak
+# Zaklady CSS - školní příklad
